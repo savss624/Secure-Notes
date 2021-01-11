@@ -1,4 +1,4 @@
-# flutter_local_auth
+# Secure Notes
 
 A new Flutter project.
 
