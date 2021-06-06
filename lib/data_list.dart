@@ -201,11 +201,16 @@ class _DataListState extends State<DataList> {
                             fontWeight: FontWeight.bold,
                           ),
                       ),
-                      subtitle: Text(
+                      subtitle: data.details[index].length < 10 ? Text(
                           data.details[index],
                           style: GoogleFonts.montserrat(
                             fontWeight: FontWeight.bold
                           ),
+                      ) : Text(
+                        data.details[index].substring(0, 11) + '...',
+                        style: GoogleFonts.montserrat(
+                            fontWeight: FontWeight.bold
+                        ),
                       ),
                       dense: true,
                       shape: RoundedRectangleBorder(
