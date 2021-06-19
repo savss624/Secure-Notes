@@ -20,11 +20,10 @@ A Highly Secured Note Storage
 ## ScreenShots
 
 <p float="left">
-<img src = "assets/Images/Sum_Q.jpg" height=300>
-<img src = "assets/Images/Sum.jpg" height=300>
- <img src = "assets/Images/qa1.jpg" height=300>
-<img src = "assets/Images/QA.jpg" height=300>
-<img src = "assets/Images/QA_marksheet.jpg" height=300>
+ <img src = "assets/Screenshot_1.jpg" height=500>
+ <img src = "assets/Screenshot_2.jpg" height=500>
+ <img src = "assets/Screenshot_4.jpg" height=500>
+ <img src = "assets/Screenshot_3.jpg" height=500>
 </p>
 
 
