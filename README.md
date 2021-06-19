@@ -1,16 +1,30 @@
-# secure_notes
+# Secure Notes
 
-A new Flutter application.
+A Highly Secured Note Storage
 
-## Getting Started
+## Security Features 
 
-This project is a starting point for a Flutter application.
+* Data is stored in sqflite Database
+* Data may be fully encrypted
+* Encryption keys are stored in Keychain and Keystore thanks to flutter_secure_storage
+* Because the DB schema never changes, there is no concern about database migrations
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Features 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* A Powerful Search Engine
+* Ability to record voice and tranform into text using realtime transcriber
+* Ability to control device clipboard
+* Ability to share data with other device apps
+* And many more to come...
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShots
+
+<p float="left">
+<img src = "assets/Images/Sum_Q.jpg" height=300>
+<img src = "assets/Images/Sum.jpg" height=300>
+ <img src = "assets/Images/qa1.jpg" height=300>
+<img src = "assets/Images/QA.jpg" height=300>
+<img src = "assets/Images/QA_marksheet.jpg" height=300>
+</p>
+
+
