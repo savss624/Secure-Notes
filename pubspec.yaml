@@ -1,0 +1,48 @@
+name: secure_notes
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  permission_handler:
+  json_store:
+  esys_flutter_share:
+  clipboard:
+  speech_to_text:
+  flutter_tts_improved:
+  fluttertoast:
+  csv:
+  path_provider:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/note.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+  fonts:
+    - family: RobotoMono
+      fonts:
+        - asset: assets/fonts/RobotoMono-Regular.ttf
+        - asset: assets/fonts/RobotoMono-bold.ttf
+
+
